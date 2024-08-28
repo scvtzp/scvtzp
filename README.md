@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/MFC-8D6748?style=flat-square&logo=&logoColor=white"/>
 <br><br>
 
+### ✍ Online Judge ✍
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scvtzp)](https://solved.ac/scvtzp/)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:scvtzp@gmail.com">
