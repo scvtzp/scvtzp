@@ -7,17 +7,11 @@
     </a>
 </div><br>
 
-## 🔨 Stacks 🔨
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C Sharp-5BA37F?style=flat-square&logo=c sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/DirectX-1177AA?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/WIN_API-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/MFC-8D6748?style=flat-square&logo=&logoColor=white"/>
-<br><br>
+### 🛠 &nbsp;Tech Stack
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=grey)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)&nbsp;
 
 ### ✍ Online Judge ✍
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scvtzp)](https://solved.ac/scvtzp/)
