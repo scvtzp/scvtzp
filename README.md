@@ -20,6 +20,9 @@
 ### ✍ Online Judge ✍
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scvtzp)](https://solved.ac/scvtzp/)
 
+### 🎮 Steam Profile
+[![scvtzp](https://steam-stat.vercel.app/api?profileName=scvtzp)](https://steamcommunity.com/id/scvtzp)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:scvtzp@gmail.com">
