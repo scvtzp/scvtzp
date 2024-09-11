@@ -3,7 +3,6 @@
 안녕하세요!  
   
 
-
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://bighorn.tistory.com/">
@@ -12,10 +11,12 @@
 </div><br>
 
 ### 🛠 &nbsp;Tech Stack
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=grey)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)&nbsp;
+<div>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-3f8324?style=flat-square&logo=C%20Sharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<div>
 
 ### ✍ Online Judge ✍
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scvtzp)](https://solved.ac/scvtzp/)
@@ -43,6 +44,7 @@
 
 소통은 언제든지 환영합니다!!  
 
+<!--<img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/>-->
 **scvtzp/scvtzp** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :망원경: I’m currently working on ...
