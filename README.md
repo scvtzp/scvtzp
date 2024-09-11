@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 </div><br>
+
 <!--
 저는 여러 가지 게임을 플레이하는 것을 좋아하는 게이머이자, 이제 막 게임 개발자의 길을 걷기 시작한 프로그래머입니다.  
 게임 개발자가 하고 싶었던 이유는, 다양한 게임을 해보며 느낀 재미와 경험을 다른 사람들에게도 나누고 싶었기 때문입니다.  
@@ -44,7 +45,7 @@
 
 소통은 언제든지 환영합니다!!  
 
-<!--<img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/>-->
+<img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/>
 **scvtzp/scvtzp** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :망원경: I’m currently working on ...
