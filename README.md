@@ -10,8 +10,8 @@
 
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
-| [방치형 라이브 (미스터 히어로: 방치형 키우기)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.MrHero) | Unity | 22.12. ~ 현재 |
-| [뱀서류 개발 (슈퍼 닌자-서바이버)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.TowerGame&hl=ko) | Unity | 23.2. ~ 22.10. |
+| [방치형 라이브 (미스터 히어로: 방치형 키우기)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.MrHero) | Unity | 23.12. ~ 현재 |
+| [뱀서류 개발 (슈퍼 닌자-서바이버)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.TowerGame&hl=ko) | Unity | 22.12. ~ 23.11. |
 <br>
 
 ### 💻 개인 포트폴리오 프로젝트 💻
@@ -19,7 +19,7 @@
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
 | [덱빌딩 인디게임 (작업중)](https://github.com/scvtzp/CardGame) | Unity | 24.10. ~ 진행중 |
-| [간단 2D 횡스크롤 게임](https://github.com/2D-Roguelike-Start/RoguelikeGame) | Unity | 22.07. |
+| [간단 2D 횡스크롤 게임](https://github.com/2D-Roguelike-Start/RoguelikeGame) | Unity | 22.07. ~ 22.07. |
 | [BABA IS YOU 모작](https://github.com/scvtzp/Baba) | Unity | 22.06. ~ 22.06. |
 | [오토체스 모작](https://github.com/scvtzp/AutoChess) |  Dx11 3D   | 21.02. ~ 21.02 |
 | [컵헤드 모작](https://github.com/scvtzp/CupHead) |  Dx11 2D   | 20.06. ~ 20.06. |
