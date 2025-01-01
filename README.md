@@ -28,7 +28,7 @@
 
 ### ✍ Online Judge ✍
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scvtzp)](https://solved.ac/scvtzp/)
-<br>
+<br><br>
 
 ### 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
@@ -47,7 +47,7 @@
 
 ### 🎮 Steam Profile
 [![namdh0809](https://steam-stat.vercel.app/api?profileName=namdh0809)](https://steamcommunity.com/id/namdh0809)
-<br>
+<br><br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
