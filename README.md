@@ -28,6 +28,7 @@
 
 ### ✍ Online Judge ✍
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scvtzp)](https://solved.ac/scvtzp/)
+<br>
 
 ### 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
@@ -42,10 +43,11 @@
   <img src="https://img.shields.io/badge/C%23-3f8324?style=flat-square&logo=C%20Sharp&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<div>
+<div><br>
 
 ### 🎮 Steam Profile
 [![namdh0809](https://steam-stat.vercel.app/api?profileName=namdh0809)](https://steamcommunity.com/id/namdh0809)
+<br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
