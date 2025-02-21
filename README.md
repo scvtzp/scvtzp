@@ -18,7 +18,7 @@
 
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
-| [인디게임] | Unity | 24.10. ~ 진행중 |
+| [인디게임] | Unity | 25.03. ~ 진행중 |
 | [간단 2D 횡스크롤 게임](https://github.com/2D-Roguelike-Start/RoguelikeGame) | Unity | 22.07. ~ 22.07. |
 | [BABA IS YOU 모작](https://github.com/scvtzp/Baba) | Unity | 22.06. ~ 22.06. |
 | [오토체스 모작](https://github.com/scvtzp/AutoChess) |  Dx11 3D   | 21.02. ~ 21.02 |
