@@ -18,7 +18,7 @@
 
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
-| [덱빌딩 인디게임 (작업중)](https://github.com/scvtzp/CardGame) | Unity | 24.10. ~ 진행중 |
+| [덱빌딩 인디게임 (작업중)](https://github.com/scvtzp/CardGame) | Unity | 24.10. ~ 25.02 |
 | [간단 2D 횡스크롤 게임](https://github.com/2D-Roguelike-Start/RoguelikeGame) | Unity | 22.07. ~ 22.07. |
 | [BABA IS YOU 모작](https://github.com/scvtzp/Baba) | Unity | 22.06. ~ 22.06. |
 | [오토체스 모작](https://github.com/scvtzp/AutoChess) |  Dx11 3D   | 21.02. ~ 21.02 |
