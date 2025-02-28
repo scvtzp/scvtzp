@@ -13,8 +13,8 @@
 
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
-| [방치형 라이브 (미스터 히어로: 방치형 키우기)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.MrHero) | Unity | 23.12. ~ 25.02 |
-| [뱀서류 개발 (슈퍼 닌자-서바이버)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.TowerGame&hl=ko) | Unity | 22.12. ~ 23.11. |
+| [방치형 라이브 (미스터 히어로: 방치형 키우기)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.MrHero) | Unity | 23.11. ~ 25.02 |
+| [뱀서류 개발 (슈퍼 닌자-서바이버)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.TowerGame&hl=ko) | Unity | 22.12. ~ 23.10. |
 <br>
 
 ### 💻 개인 포트폴리오 프로젝트 💻
