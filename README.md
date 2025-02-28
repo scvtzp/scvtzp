@@ -17,11 +17,11 @@
 | [뱀서류 개발 (슈퍼 닌자-서바이버)](https://play.google.com/store/apps/details?id=com.MonsterPlanet.TowerGame&hl=ko) | Unity | 22.12. ~ 23.10. |
 <br>
 
-### 💻 개인 포트폴리오 프로젝트 💻
+### 💻 개인 사이드 프로젝트 💻
 
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
-| [인디게임] | Unity | 25.03. ~ 진행중 |
+| [스트레이 패스 모작](https://github.com/scvtzp/TeamAwesomeCard) | Unity | 25.01. ~ 25.02. |
 | [간단 2D 횡스크롤 게임](https://github.com/2D-Roguelike-Start/RoguelikeGame) | Unity | 22.07. ~ 22.07. |
 | [BABA IS YOU 모작](https://github.com/scvtzp/Baba) | Unity | 22.06. ~ 22.06. |
 | [오토체스 모작](https://github.com/scvtzp/AutoChess) |  Dx11 3D   | 21.02. ~ 21.02 |
